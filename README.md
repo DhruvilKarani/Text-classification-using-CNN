@@ -7,5 +7,3 @@ Steps like punctuation removal, lower casing, word-segmentation have been implem
 # Model
 A CNN with first layer as the 'Embedding Layer' (https://keras.io/layers/embeddings/) with Convolutional filters and finally dense layers with softmax output
 
-# Note
-Neither the  model isn't tuned nor the architecture is perfect. Although this provides a basic understanding of the framework
